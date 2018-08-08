@@ -45,8 +45,5 @@ puts post_chorus
 
 end
 
-sing_halo
-sing_halo
-sing_halo
-sing_halo
-sing_halo
+
+
